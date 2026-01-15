@@ -2,8 +2,11 @@
 # Essential Removals to prevent conflicts
 #
 CONFIG_PACKAGE_-dnsmasq=y
+CONFIG_PACKAGE_-wpad-basic=y
+CONFIG_PACKAGE_-wpad-mini=y
 CONFIG_PACKAGE_-wpad-basic-mbedtls=y
 CONFIG_PACKAGE_-wpad-basic-wolfssl=y
+CONFIG_PACKAGE_-wpad-mini-wolfssl=y
 
 #
 # Base System & LuCI (Core)
