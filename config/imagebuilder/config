@@ -21,6 +21,7 @@ CONFIG_PACKAGE_luci-app-package-manager=y
 CONFIG_PACKAGE_luci-app-ttyd=y
 CONFIG_PACKAGE_luci-app-natmap=y
 CONFIG_PACKAGE_luci-app-acme=y
+CONFIG_PACKAGE_luci-app-sqm=y
 # end of 1. Applications
 
 #
@@ -40,6 +41,7 @@ CONFIG_PACKAGE_luci-i18n-ttyd-zh-cn=y
 CONFIG_PACKAGE_luci-i18n-https-dns-proxy-zh-cn=y
 CONFIG_PACKAGE_luci-i18n-natmap-zh-cn=y
 CONFIG_PACKAGE_luci-i18n-acme-zh-cn=y
+CONFIG_PACKAGE_luci-i18n-sqm-zh-cn=y
 # end of 3. Translate
 
 #
