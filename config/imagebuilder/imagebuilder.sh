@@ -212,6 +212,7 @@ rebuild_firmware() {
         uclient-fetch uhttpd uhttpd-mod-ubus unzip uuidgen wget-ssl whereis \
         which wpad-basic wwan xfs-fsck xfs-mkfs xz xz-utils ziptool zoneinfo-asia zoneinfo-core zstd \
         \
+        cypress-firmware-43455-sdio brcmfmac-nvram-43455-sdio \
         luci luci-base luci-compat luci-i18n-base-zh-cn luci-lib-base \
         luci-lib-ip luci-lib-ipkg luci-lib-jsonc luci-lib-nixio luci-mod-admin-full luci-mod-network \
         luci-mod-status luci-mod-system luci-proto-ipv6 \
